@@ -23,6 +23,8 @@ I'm driven by a curiosity to bridge theory and real-world implementation. My res
 Looking forward to new challenges and opportunities as I continue on this exciting journey!
 -->
 
+
+
 Research Interests
 ======
 My research focus centers on robotics perception, system design, networking, and security. In my recent MILCOM 2023 paper **”Towards Effective Swarm-Based GPS Spoofing Detection in Disadvantaged Platforms”**, I tackled the challenge of countering GPS spoofing for small platforms like Air Launched Effects
