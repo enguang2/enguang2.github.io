@@ -8,7 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi! Here's Enguang Fan. I'm a passionate researcher and computer science enthusiast. I'm currently pursuing a Master's degree in Computer Science at the University of Illinois, Urbana-Champaign, building upon my previous academic achievements.
+
+I completed my Bachelor of Science in Statistics & Computer Science with the highest distinction at the University of Illinois. My educational journey began in Beijing Jiaotong University, where I initially majored in Telecommunication Engineering before transferring to UIUC.
+
+My skills span various programming languages including C/C++, Python, Java, Julia, Matlab, R, and Rust. I'm adept in tools like Pandas, NumPy, Sympy, as well as deep learning frameworks like PyTorch, TensorFlow, and Keras.
+
+My experiences are diverse. From being a Software Engineer Intern at Huawei Inc., where I developed probabilistic programming libraries and tensor-based statistics libraries, to contributing as a Research Assistant at the University of Illinois where I worked on probabilistic programs and their robustness evaluation.
+
+I've also engaged in exciting projects such as designing a ROS-based swarm drones simulation package and enhancing GPS spoofing detection in disadvantaged platforms.
+
+In addition to my technical pursuits, I'm dedicated to teaching. As a Graduate Teaching Assistant, I've mentored students in mastering system programming, advanced I/O handling, memory optimization, and more.
+
+I'm driven by a curiosity to bridge theory and real-world implementation. My research statement revolves around robotics perception, system design, networking, and security. My recent work on swarm-based GPS spoofing detection demonstrates my commitment to advancing technology for practical impact across domains.
+
+Looking forward to new challenges and opportunities as I continue on this exciting journey!
 
 A data-driven personal website
 ======
