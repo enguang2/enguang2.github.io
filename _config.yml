@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Enguang Fan"
   avatar           : "selfie.jpg"
-  bio              : "CS Master student at UIUC, working on Syste, security and robotics perception"
+  bio              : "CS Master student at UIUC, working on System, security and robotics perception"
   location         : "Siebel Building Basement"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github.com/enguang2"
+  github           : "enguang2"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/fan-enguang-7a262416b/?locale=en_US"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "in/fan-enguang-7a262416b/?locale=en_US"
+  orcid            : "http://https://orcid.org/0009-0001-8551-9615"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
