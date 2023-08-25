@@ -28,9 +28,7 @@ Research Interests
 My research focus centers on robotics perception, system design, networking, and security. In my recent MILCOM 2023 paper, titled **”Towards Effective Swarm-Based GPS Spoofing Detection in Disadvantaged Platforms”**, I tackled the challenge of countering GPS spoofing for small platforms like Air Launched Effects
 (ALEs). By leveraging sensor fusion techniques, including inertial measurement units, communication with
 neighboring ALEs, and networking signal strength, I proposed a novel architecture that significantly improves
-GPS signal integrity and navigation accuracy in GPS-denied environments. My broader research interests re-
-volve around developing robust solutions that bridge theory and real-world implementation, fostering advance-
-ments in technology with tangible impacts across diverse domains.
+GPS signal integrity and navigation accuracy in GPS-denied environments. My broader research interests revolve around developing robust solutions that bridge theory and real-world implementation, fostering advancements in technology with tangible impacts across diverse domains.
 
 
 Contact
