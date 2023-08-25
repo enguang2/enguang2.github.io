@@ -14,9 +14,8 @@ For my full CV, see [here](https://enguang2.github.io/files/Resume_Aug_2023.pdf)
 Education
 ======
 
-* Ph.D. in Computer Science, Princeton University. Research advisor: [Prof. Jia Deng](https://www.cs.princeton.edu/~jiadeng/)
-* M.S. in Robotics, Carnegie Mellon University, 2021. Research Advisor: [Prof. Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/)
-* B.Eng in Electronic Engineering (with Honors), Tsinghua University, 2019.
+* Master of Computer Science, UIUC, 2022-present. Research Advisor: [Prof. Matthew Caesar](https://caesar.cs.illinois.edu/)
+* B.S. in Statistics and Computer science (with the Highest Distinction), UIUC, 2019-2022.
 * Visiting Student, Johns Hopkins University, 2018. Research Advisor: [Prof. Alan L. Yuille](http://www.cs.jhu.edu/~ayuille/)
 * Exchange Student, National Unversity of Singapore, 2017. Research Advisor: [Prof. Jiashi Feng](https://sites.google.com/site/jshfeng/)
 
