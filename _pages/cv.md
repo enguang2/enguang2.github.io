@@ -28,10 +28,11 @@ Teaching Experience
 Selected Honors
 ======
 
-* GE Annual Book Prize for the Best Student in Communications, General Electric, Inc, 2018
-*	TI Book Prize for the Best Student in Digital Signal Processing and Systems, Texas Instrument, Inc, 2018
-* Qualcomm Scholarship (top 2%), Qualcomm, Inc, 2017
-* First Prize, Chinese High School Biology Olympiad, Zoological and Botanical Society of China, 2014
+* UIUC Fall 2022 Teachers(TA) Ranked as Excellent by Their Students [Link](https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2022-fall.pdf)
+* UIUC Dean's List FA19, SP20, FA21, SP22
+* First Class Academic Scholarship at Beijing Jiaotong University (Top 3% in GPA)
+* Industry sponsored Academic Scholarship at Beijing Jiaotong University
+* Second Prize of English Speech Contest for College Students at Beijing JIaotong Universit
 
 Academic Services
 ======
