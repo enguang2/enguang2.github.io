@@ -35,4 +35,6 @@ ments in technology with tangible impacts across diverse domains.
 
 Contact
 ======
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Department of Computer Science, University of Illinois, Urbana-Champaign<br>
+201 North Goodwin Avenue MC 258, Urbana, IL<br>
+Email: enguang2@illinois.edu
