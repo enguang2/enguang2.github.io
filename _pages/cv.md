@@ -34,7 +34,3 @@ Selected Honors
 * Industry sponsored Academic Scholarship at Beijing Jiaotong University
 * Second Prize of English Speech Contest for College Students at Beijing JIaotong Universit
 
-Academic Services
-======
-
-* Conference Reviewer: ICRA 21/22, ICML 22, CVPR 23
