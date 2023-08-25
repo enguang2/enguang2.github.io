@@ -21,7 +21,7 @@ Education
 Teaching Experience
 ======
 
-* Graduate Teaching Assistant, [CS 341 System Programming](https://cs341.cs.illinois.edu/), UIUC, Prof. Bernard Chazelle, Fall 2022
+* Graduate Teaching Assistant, [CS 341 System Programming](https://cs341.cs.illinois.edu/), UIUC, Fall 2022
 * Graduate Teaching Assistant, [CS 437 Topics in Internet of Thing](https://cs.illinois.edu/academics/courses/cs437), UIUC, Fall 2023
 
 
