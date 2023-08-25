@@ -35,6 +35,6 @@ ments in technology with tangible impacts across diverse domains.
 
 Contact
 ======
-Department of Computer Science, University of Illinois, Urbana-Champaign<br>
+Department of Computer Science, UIUC<br>
 201 North Goodwin Avenue MC 258, Urbana, IL<br>
 Email: enguang2@illinois.edu
