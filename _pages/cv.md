@@ -16,14 +16,13 @@ Education
 
 * Master of Computer Science, UIUC, 2022-present. Research Advisor: [Prof. Matthew Caesar](https://caesar.cs.illinois.edu/)
 * B.S. in Statistics and Computer science (**the Highest Distinction**), UIUC, 2019-2022.
-* B.S. in Telecommunication Engineering (**transferred to UIUC**), Beijing Jiaotong University, 2017-2019
-* Exchange Student, National Unversity of Singapore, 2017. Research Advisor: [Prof. Jiashi Feng](https://sites.google.com/site/jshfeng/)
+* B.S. in Telecommunication Engineering (transferred to UIUC), Beijing Jiaotong University, 2017-2019
 
 Teaching Experience
 ======
 
-* Teaching Assistant, COS 451 (Computational Geometry), Princeton University, Prof. Bernard Chazelle, Fall 2022
-* Teaching Assistant, Media and Cognition, Tsinghua University, Fall 2018
+* Graduate Teaching Assistant, [CS 341 System Programming](https://cs341.cs.illinois.edu/), UIUC, Prof. Bernard Chazelle, Fall 2022
+* Graduate Teaching Assistant, [CS 437 Topics in Internet of Thing](https://cs.illinois.edu/academics/courses/cs437), UIUC, Fall 2023
 
 
 Selected Honors
