@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Here's Enguang Fan. I'm a passionate researcher and computer science enthusiast. I'm currently pursuing a Master's degree in Computer Science at the University of Illinois, Urbana-Champaign, building upon my previous academic achievements.
+Hi! Here's Enguang. I'm a passionate researcher and computer science enthusiast. I'm currently pursuing a Master's degree in Computer Science at the University of Illinois, Urbana-Champaign, building upon my previous academic achievements. I completed my Bachelor of Science in Statistics & Computer Science with the highest distinction at the University of Illinois. My educational journey began in Beijing Jiaotong University, where I initially majored in Telecommunication Engineering before transferring to UIUC. My reseach interest span I am actively exploring PhD opportunity starting from Fall 2024, please drop me an email if you think I might be a good fit.
 
-I completed my Bachelor of Science in Statistics & Computer Science with the highest distinction at the University of Illinois. My educational journey began in Beijing Jiaotong University, where I initially majored in Telecommunication Engineering before transferring to UIUC.
-
-My skills span various programming languages including C/C++, Python, Java, Julia, Matlab, R, and Rust. I'm adept in tools like Pandas, NumPy, Sympy, as well as deep learning frameworks like PyTorch, TensorFlow, and Keras.
+<!--- My skills span various programming languages including C/C++, Python, Java, Julia, Matlab, R, and Rust. I'm adept in tools like Pandas, NumPy, Sympy, as well as deep learning frameworks like PyTorch, TensorFlow, and Keras. -->
 
 My experiences are diverse. From being a Software Engineer Intern at Huawei Inc., where I developed probabilistic programming libraries and tensor-based statistics libraries, to contributing as a Research Assistant at the University of Illinois where I worked on probabilistic programs and their robustness evaluation.
 
