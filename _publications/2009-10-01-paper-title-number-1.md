@@ -1,4 +1,3 @@
-
 ---
 title: "Towards Effective Swarm-Based GPS Spoofing Detection in Disadvantaged
 Platforms"
