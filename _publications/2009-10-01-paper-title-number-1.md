@@ -9,7 +9,7 @@ citation: '<b>Enguang Fan</b>, Anfeng Peng, Matthew Caesar, Jae H Kim, Josh
 Eckhardt, Greg Kimberly, Denis Osipychev'
 ---
 
-[[PDF]]()
+[[PDF]](http://enguang2.github.io/files/milcom2023.pdf)
 
 ## Abstract
 Modern battlefields are subject to spoofing of
