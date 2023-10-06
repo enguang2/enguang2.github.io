@@ -32,6 +32,7 @@ My research focus centers on robotics perception, system design, networking, and
 neighboring ALEs, and networking signal strength, I proposed a novel architecture that significantly improves
 GPS signal integrity and navigation accuracy in GPS-denied environments. My broader research interests revolve around developing robust solutions that bridge theory and real-world implementation, fostering advancements in technology with tangible impacts across diverse domains.
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=WxnTsQDkaKZvKtWIuoVWtaqfEcB41QI6IH8F6c1SIJ4&cl=ffffff&w=a"></script>
 
 Contact
 ======
