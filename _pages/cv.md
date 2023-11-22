@@ -27,7 +27,7 @@ Teaching Experience
 
 Selected Honors
 ======
-
+* IEEE MILCOM 2023 Student Travel Grant Winner [Link](https://milcom2023.milcom.org/registration/student-travel-grants/student-travel-grant-winners)
 * UIUC Fall 2022 Teachers(TA) Ranked as Excellent by Their Students [Link](https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2022-fall.pdf)
 * UIUC Dean's List FA19, SP20, FA21, SP22
 * First Class Academic Scholarship at Beijing Jiaotong University (Top 3% in GPA)
