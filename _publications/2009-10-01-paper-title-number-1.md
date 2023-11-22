@@ -11,7 +11,7 @@ Platforms," MILCOM 2023 - 2023 IEEE Military Communications Conference (MILCOM),
 ---
 
 [[Paper]](http://enguang2.github.io/files/milcom2023.pdf)
-[[Talk]](https://github.com/enguang2/enguang2.github.io/blob/master/files/milcom_presentation_talk.pdf)
+[[Talk]](http://enguang2.github.io/files/milcom_presentation_talk.pdf)
 
 ## Abstract
 Modern battlefields are subject to spoofing of
