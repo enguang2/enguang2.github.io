@@ -32,5 +32,4 @@ Selected Honors
 * UIUC Dean's List FA19, SP20, FA21, SP22
 * First Class Academic Scholarship at Beijing Jiaotong University (Top 3% in GPA)
 * Industry sponsored Academic Scholarship at Beijing Jiaotong University
-* Second Prize of English Speech Contest for College Students at Beijing JIaotong Universit
 
