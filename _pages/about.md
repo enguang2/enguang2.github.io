@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Here's Enguang. I'm a passionate researcher and computer science enthusiast. I'm currently pursuing a Master's degree in [Computer Science at University of Illinois, Urbana-Champaign](https://cs.illinois.edu/). I completed my Bachelor of Science in Statistics & Computer Science with the highest distinction at UIUC as well. My educational journey began in Beijing Jiaotong University, where I initially majored in Telecommunication Engineering before transferring to UIUC. **I am actively exploring Fall 2024 PhD opportunity, please contact me if you think I am a good fit.**
+Hi! Here's Enguang. I'm a passionate researcher and computer science enthusiast. I'm currently pursuing a Master's degree in [Computer Science at University of Illinois, Urbana-Champaign](https://cs.illinois.edu/). I completed my Bachelor of Science in Statistics & Computer Science with the highest distinction at UIUC as well. My educational journey began in Beijing Jiaotong University, where I initially majored in Telecommunication Engineering before transferring to UIUC. ~~**I am actively exploring Fall 2024 PhD opportunity, please contact me if you think I am a good fit.**~~ **I will be starting my CS PhD at University XXX (please allow me to keep it as a secret for now)**
 
 <!--- My skills span various programming languages including C/C++, Python, Java, Julia, Matlab, R, and Rust. I'm adept in tools like Pandas, NumPy, Sympy, as well as deep learning frameworks like PyTorch, TensorFlow, and Keras. 
 
