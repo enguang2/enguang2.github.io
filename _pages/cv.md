@@ -29,6 +29,6 @@ Selected Honors
 ======
 * UIUC Fall 2022 Teachers(TA) Ranked as Excellent by Their Students [Link](https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2022-fall.pdf)
 * UIUC Dean's List FA19, SP20, FA21, SP22
-* First Class Academic Scholarship at Beijing Jiaotong University (Top 3% in GPA)
-* Industry sponsored Academic Scholarship at Beijing Jiaotong University
+  <!--* First Class Academic Scholarship at Beijing Jiaotong University (Top 3% in GPA)-->
+<!--* Industry sponsored Academic Scholarship at Beijing Jiaotong University-->
 
