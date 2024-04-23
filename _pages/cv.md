@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 
-* Master of Computer Science, UIUC, 2022-present. I've done research with: [Prof. Matthew Caesar](https://caesar.cs.illinois.edu/)
+* Master of Computer Science, UIUC, 2022-present. I've done research with: [Prof. Sasa Misailovic](https://misailo.cs.illinois.edu/) [Prof. Matthew Caesar](https://caesar.cs.illinois.edu/)
 * B.S. in Statistics and Computer science (**the Highest Distinction**), UIUC, 2019-2022.
 * B.S. in Telecommunication Engineering (transferred to UIUC), Beijing Jiaotong University, 2017-2019
 
