@@ -15,7 +15,7 @@ Hi! Here's Enguang. I'm a passionate researcher and computer science enthusiast.
 
 Research Interests
 ======
-My research focus centers on robotics perception, system design, networking, and security. 
+My research focus centers on operating system, system design, computer networking.
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=WxnTsQDkaKZvKtWIuoVWtaqfEcB41QI6IH8F6c1SIJ4&cl=ffffff&w=a"></script>
 
