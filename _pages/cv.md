@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 
-* Master of Computer Science, UIUC, 2022-present. Research Advisor: [Prof. Matthew Caesar](https://caesar.cs.illinois.edu/)
+* Master of Computer Science, UIUC, 2022-present. I've done research with: [Prof. Matthew Caesar](https://caesar.cs.illinois.edu/)
 * B.S. in Statistics and Computer science (**the Highest Distinction**), UIUC, 2019-2022.
 * B.S. in Telecommunication Engineering (transferred to UIUC), Beijing Jiaotong University, 2017-2019
 
@@ -27,7 +27,6 @@ Teaching Experience
 
 Selected Honors
 ======
-* IEEE MILCOM 2023 Student Travel Grant Winner [Link](https://milcom2023.milcom.org/registration/student-travel-grants/student-travel-grant-winners)
 * UIUC Fall 2022 Teachers(TA) Ranked as Excellent by Their Students [Link](https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2022-fall.pdf)
 * UIUC Dean's List FA19, SP20, FA21, SP22
 * First Class Academic Scholarship at Beijing Jiaotong University (Top 3% in GPA)
