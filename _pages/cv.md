@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-
-* Master of Computer Science, UIUC, 2022-present. 
+* PhD in Computer Science, UIUC, 2024-present
+* Master of Computer Science, UIUC, 2022-2024. 
 * B.S. in Statistics and Computer science (**the Highest Distinction**), UIUC, 2019-2022.
 * B.S. in Telecommunication Engineering (transferred to UIUC), Beijing Jiaotong University, 2017-2019
 
