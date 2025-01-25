@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Download my full CV, see [here](http://enguang2.github.io/files/Enguang_CV_2024_0423_01.pdf).**
+**Download my full CV, see [here](http://enguang2.github.io/files/phd_jan_2025_website.pdf).**
 
 Education
 ======
