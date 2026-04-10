@@ -97,7 +97,7 @@ My work focuses on making accurate localization available everywhere — even in
 <div class="pub-entry">
 <div class="pub-title">Scalable Indoor Localization with Non-Cooperative Wi-Fi Ranging <span class="pub-badge">Best Poster Runner-Up</span></div>
 <div class="pub-authors"><strong>Enguang Fan*</strong>, Emerson Sie*, Federico Cifuentes-Urtubey, Deepak Vasisht</div>
-<div class="pub-venue">MobiCom 2025 — 31st ACM Int'l Conference on Mobile Computing and Networking, Hong Kong, Nov 2025</div>
+<div class="pub-venue">MobiCom 2025 — 31st ACM Int'l Conference on Mobile Computing and Networking, Hong Kong, Nov 2025 &nbsp;·&nbsp; <a href="https://dl.acm.org/doi/pdf/10.1145/3680207.3765680">PDF</a></div>
 </div>
 
 <div class="pub-entry">

@@ -111,6 +111,7 @@ author_profile: true
   <div class="pub-authors"><strong>Enguang Fan*</strong>, Emerson Sie*, Federico Cifuentes-Urtubey, Deepak Vasisht</div>
   <div class="pub-venue">Proceedings of the 31st ACM Annual International Conference on Mobile Computing and Networking (MobiCom), Hong Kong, China, Nov 2025</div>
   <div class="pub-links">
+    <a href="https://dl.acm.org/doi/pdf/10.1145/3680207.3765680">[PDF]</a>
     <span style="color:#888">1 citation</span>
   </div>
 </div>
