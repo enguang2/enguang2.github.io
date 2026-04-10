@@ -75,6 +75,7 @@ redirect_from:
   <div class="cv-entry-body">
     <div class="cv-org">University of Illinois Urbana-Champaign</div>
     <div class="cv-role">PhD in Computer Science</div>
+    <div class="cv-detail">Advised by Prof. Klara Nahrstedt. Previously worked with Prof. Deepak Vasisht and Prof. Matthew Caesar.</div>
   </div>
   <div class="cv-entry-date">Aug 2024 – May 2027</div>
 </div>

@@ -71,7 +71,7 @@ redirect_from:
 }
 </style>
 
-I am a PhD student in the [Department of Computer Science](https://cs.illinois.edu/) at the **University of Illinois Urbana-Champaign** (UIUC), advised by [Prof. Deepak Vasisht](https://deepakv.web.illinois.edu/). My research centers on **mobile computing**, **indoor localization**, and **wireless sensing systems**. I build systems that enable accurate, infrastructure-free positioning for everyday devices.
+I am a PhD student in the [Department of Computer Science](https://cs.illinois.edu/) at the **University of Illinois Urbana-Champaign** (UIUC), advised by [Prof. Klara Nahrstedt](https://cs.illinois.edu/about/people/faculty/klara). My research centers on **mobile computing**, **indoor localization**, and **wireless sensing systems**. I build systems that enable accurate, infrastructure-free positioning for everyday devices. I have also worked with [Prof. Deepak Vasisht](https://deepakv.web.illinois.edu/) and [Prof. Matthew Caesar](https://caesar.web.engr.illinois.edu/).
 
 Prior to my PhD, I interned on the **Android Location Team at Google** (2025), where I worked on next-generation indoor localization for Google Maps. I hold an M.S. and B.S. (Highest Distinction) in CS/Statistics from UIUC.
 
