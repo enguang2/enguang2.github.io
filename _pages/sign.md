@@ -68,6 +68,13 @@ toc_icon: "book"
   color: #999;
   margin-bottom: 2em;
 }
+.copyright-notice {
+  font-size: 0.82em;
+  color: #aaa;
+  line-height: 1.7;
+  max-width: 680px;
+  margin-top: 2em;
+}
 </style>
 
 <div class="meta-line">短篇科幻小说 · Short fiction · 2025</div>
@@ -576,4 +583,9 @@ GRC建立了一套基于Emoji的工程管理系统。每一道工序、每一个
 只是握紧了。
 
 不松开。
+
+---
+
+<p class="copyright-notice">© 2026 Enguang Fan · First published 2026-03-05 · Licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a><br>
+You are free to share this work, but you <strong>must</strong> cite <a href="https://enguang2.github.io/misc/sign/">https://enguang2.github.io/misc/sign/</a> as the source and credit <strong>Enguang Fan</strong> as the author.</p>
 
