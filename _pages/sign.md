@@ -3,6 +3,9 @@ layout: single
 title: "SIGN / 牌子"
 permalink: /misc/sign/
 author_profile: false
+toc: true
+toc_label: "Chapters"
+toc_icon: "book"
 ---
 
 <style>
@@ -30,26 +33,35 @@ author_profile: false
   border: none;
   border-radius: 4px;
 }
-.novel-body {
-  max-width: 720px;
-  line-height: 1.85;
+.page__content > p,
+.page__content > blockquote,
+.page__content > ul,
+.page__content > ol {
+  max-width: 680px;
+  line-height: 1.9;
   font-size: 1em;
-  color: #222;
 }
-.novel-body h2 {
-  font-size: 1.05em;
+.page__content h2 {
+  text-align: center;
+  font-size: 1em;
   font-weight: 700;
-  margin-top: 2.2em;
-  margin-bottom: 0.5em;
-  color: #333;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #999;
+  border-bottom: none !important;
+  padding: 2em 0 0.5em 0;
+  margin: 0 0 1em 0;
 }
-.novel-body hr {
+.page__content hr {
   border: none;
-  border-top: 1px solid #eee;
-  margin: 1.4em 0;
+  text-align: center;
+  margin: 1.8em 0;
 }
-.novel-body p {
-  margin-bottom: 0.9em;
+.page__content hr::after {
+  content: "· · ·";
+  color: #bbb;
+  font-size: 1.2em;
+  letter-spacing: 0.5em;
 }
 .meta-line {
   font-size: 0.85em;
@@ -72,8 +84,6 @@ author_profile: false
 </div>
 
 ---
-
-<div class="novel-body">
 
 ## 序章 · 火星纪元第零天
 
@@ -567,4 +577,3 @@ GRC建立了一套基于Emoji的工程管理系统。每一道工序、每一个
 
 不松开。
 
-</div>
