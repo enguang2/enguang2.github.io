@@ -437,7 +437,7 @@ GSA在第280天被重组为"全球复兴委员会"（GRC）。GRC的首要目标
 
 ---
 
-<p class="copyright-notice">© 2026 范恩广（Enguang Fan）· 首发 2026-03-05 · 采用 <a href="https://creativecommons.org/licenses/by/4.0/deed.zh" target="_blank" rel="noopener">CC BY 4.0</a> 授权<br>
+<p class="copyright-notice">© 2026 Enguang Fan· 首发 2026-03-05 · 采用 <a href="https://creativecommons.org/licenses/by/4.0/deed.zh" target="_blank" rel="noopener">CC BY 4.0</a> 授权<br>
 欢迎转载分享，但须注明原文链接 <a href="https://enguang2.github.io/misc/sign/">https://enguang2.github.io/misc/sign/</a> 并标注作者 <strong>Enguang Fan</strong>。</p>
 
 </div>
