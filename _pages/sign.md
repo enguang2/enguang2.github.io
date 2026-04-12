@@ -86,7 +86,14 @@ toc_icon: "book"
   </div>
   <div class="video-wrap">
     <div class="label">YouTube</div>
-    <iframe src="https://www.youtube.com/embed/w7tkO8wm9C4?si=eJ1DnDJUusUkgarV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe 
+  src="https://www.youtube.com/embed/w7tkO8wm9C4?autoplay=1&mute=1" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  referrerpolicy="strict-origin-when-cross-origin" 
+  allowfullscreen>
+</iframe>
   </div>
 </div>
 
