@@ -58,6 +58,7 @@ author_profile: false
 }
 #lang-cn p, #lang-en p { line-height: 1.95; max-width: 680px; }
 .meta-line { font-size: 0.82em; color: #bbb; margin-bottom: 1.2em; }
+.copyright-notice { font-size: 0.82em; color: #aaa; line-height: 1.7; max-width: 680px; margin-top: 0.5em; }
 </style>
 
 <div class="lang-toggle-bar">
@@ -433,6 +434,11 @@ GSA在第280天被重组为"全球复兴委员会"（GRC）。GRC的首要目标
 如果某种智慧曾经对人类的好奇心下了判决书，那么人类的回答就写在那块牌子上。
 
 一只紧握的拳头。不是举起来挥向谁的。只是握紧了。不松开。
+
+---
+
+<p class="copyright-notice">© 2026 范恩广（Enguang Fan）· 首发 2026-03-05 · 采用 <a href="https://creativecommons.org/licenses/by/4.0/deed.zh" target="_blank" rel="noopener">CC BY 4.0</a> 授权<br>
+欢迎转载分享，但须注明原文链接 <a href="https://enguang2.github.io/misc/sign/">https://enguang2.github.io/misc/sign/</a> 并标注作者 <strong>Enguang Fan</strong>。</p>
 
 </div>
 
@@ -819,6 +825,11 @@ Not raised to strike anyone.
 Just clenched.
 
 Not letting go.
+
+---
+
+<p class="copyright-notice">© 2026 Enguang Fan · First published 2026-03-05 · Licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a><br>
+Feel free to share this work, but you <strong>must</strong> cite <a href="https://enguang2.github.io/misc/sign/">https://enguang2.github.io/misc/sign/</a> as the source and credit <strong>Enguang Fan</strong> as the author.</p>
 
 </div>
 
