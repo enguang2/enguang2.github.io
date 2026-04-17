@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://enguang2.github.io/sitemap.xml

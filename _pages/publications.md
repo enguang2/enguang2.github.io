@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+description: "Publications by Enguang Fan: indoor localization, mobile computing, GPS spoofing detection, UAV deployment, and Visual SLAM."
 ---
 
 <style>

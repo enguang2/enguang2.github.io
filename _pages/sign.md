@@ -3,6 +3,7 @@ layout: single
 title: "SIGN / 牌子"
 permalink: /misc/sign/
 author_profile: false
+description: "SIGN (牌子) — A short sci-fi story by Enguang Fan. A question mark appears on Mars, then traffic signs start enforcing themselves, then humanity answers."
 ---
 
 <style>

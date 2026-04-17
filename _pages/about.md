@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Enguang Fan"
-excerpt: "About me"
+excerpt: "Enguang Fan — PhD student at UIUC CS, advised by Prof. Klara Nahrstedt. Research in mobile computing, indoor localization, wireless sensing. Ex-Google Android Location Team."
 author_profile: true
 redirect_from:
   - /about/

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Enguang Fan"
 title_separator          : "-"
 name                     : &name "Mr. Enguang Fan"
-description              : &description "CS PhD student at UIUC"
+description              : &description "Enguang Fan — PhD student in Computer Science at UIUC. Research in mobile computing, indoor localization, and wireless sensing systems. Ex-Google Android Location Team."
 url                      : https://enguang2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "enguang2.github.io"
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "googledfdc3ee3b3117a3c"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -62,13 +62,17 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "selfie_2025.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"
+  name                   : "Enguang Fan"
+  links:
+    - "https://scholar.google.com/citations?user=-la27N0AAAAJ&hl=en"
+    - "https://github.com/enguang2"
+    - "https://www.linkedin.com/in/fan-enguang-7a262416b/"
+    - "https://orcid.org/0009-0001-8551-9615"
 
 
 # Analytics
