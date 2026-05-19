@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "selfie_2025.png"
+og_image                 : "selfie_v2.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -71,7 +71,7 @@ social:
   links:
     - "https://scholar.google.com/citations?user=-la27N0AAAAJ&hl=en"
     - "https://github.com/enguang2"
-    - "https://www.linkedin.com/in/fan-enguang-7a262416b/"
+    - "https://www.linkedin.com/in/enguang-fan-7a262416b/"
     - "https://orcid.org/0009-0001-8551-9615"
 
 
@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Enguang Fan"
-  avatar           : "selfie_2025.png"
+  avatar           : "selfie_v2.png"
   bio              : "PhD student at UIUC CS. Mobile computing, indoor localization, wireless systems. Ex-Google (Android Location Team)."
   location         : "Siebel Center, UIUC"
   employer         :
@@ -106,7 +106,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "fan-enguang-7a262416b/?locale=en_US"
+  linkedin         : "enguang-fan-7a262416b"
   orcid            : "https://orcid.org/0009-0001-8551-9615"
   pinterest        :
   soundcloud       :
