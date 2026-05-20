@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Enguang Fan"
-excerpt: "Enguang Fan — PhD student at UIUC CS, advised by Prof. Klara Nahrstedt. Research in mobile computing, indoor localization, wireless sensing. Ex-Google Android Location Team."
+excerpt: "Enguang Fan — PhD candidate at UIUC CS, advised by Prof. Klara Nahrstedt. Research in mobile computing, indoor localization, wireless sensing. Ex-Google Android Location Team."
 author_profile: true
 redirect_from:
   - /about/
@@ -71,12 +71,14 @@ redirect_from:
 }
 </style>
 
-I am a PhD student in the [Department of Computer Science](https://cs.illinois.edu/) at the **University of Illinois Urbana-Champaign** (UIUC), advised by [Prof. Klara Nahrstedt](https://cs.illinois.edu/about/people/faculty/klara). My research centers on **mobile computing**, **indoor localization**, and **wireless sensing systems**. I build systems that enable accurate, infrastructure-free positioning for everyday devices. I have also worked with [Prof. Deepak Vasisht](https://deepakv.web.illinois.edu/) and [Prof. Matthew Caesar](https://caesar.web.engr.illinois.edu/).
+I am a PhD candidate in the [Department of Computer Science](https://cs.illinois.edu/) at the **University of Illinois Urbana-Champaign** (UIUC), advised by [Prof. Klara Nahrstedt](https://cs.illinois.edu/about/people/faculty/klara). My research centers on **mobile computing**, **indoor localization**, and **wireless sensing systems**. I build systems that enable accurate, infrastructure-free positioning for everyday devices. I have also worked with [Prof. Deepak Vasisht](https://deepakv.web.illinois.edu/) and [Prof. Matthew Caesar](https://caesar.web.engr.illinois.edu/).
 
 Prior to my PhD, I interned on the **Google Android Indoor Localization Team** (2025), where I worked on next-generation indoor localization for Google Maps with [Dr. Roy Want](https://en.wikipedia.org/wiki/Roy_Want). I hold an M.S. and B.S. (Highest Distinction) in CS/Statistics from UIUC.
 
 <div class="section-title">News</div>
 
+<div class="news-item"><span class="news-date">May 2026</span><span>Returned to <strong>Google</strong> as a Student Researcher, continuing work on indoor localization with the Android Context team.</span></div>
+<div class="news-item"><span class="news-date">Apr 2026</span><span>Passed the qualifying exam and became a <strong>PhD candidate</strong>!</span></div>
 <div class="news-item"><span class="news-date">Apr 2026</span><span>New preprints on arXiv: <em>Communication-Aware Multi-Agent RL for Decentralized UAV Deployment</em> and <em>Real-Time Loop Closure Detection in Visual SLAM via NetVLAD and Faiss</em>.</span></div>
 <div class="news-item"><span class="news-date">Nov 2025</span><span>Our paper <em>Scalable Indoor Localization with Non-Cooperative Wi-Fi Ranging</em> won <strong>Best Poster Runner-Up</strong> at MobiCom 2025 in Hong Kong!</span></div>
 <div class="news-item"><span class="news-date">Aug 2025</span><span>Completed my internship at <strong>Google</strong> (Android Location Team), building a Wi-Fi RTT + PDR indoor localization system achieving 0.8 m accuracy at 90% CDF.</span></div>

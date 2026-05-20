@@ -3,7 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-description: "CV of Enguang Fan — PhD student at UIUC, ex-Google researcher. Education, publications, research experience, honors, and skills."
+description: "CV of Enguang Fan — PhD candidate at UIUC, ex-Google researcher. Education, publications, research experience, honors, and skills."
 redirect_from:
   - /resume
 ---

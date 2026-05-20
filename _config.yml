@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Enguang Fan"
 title_separator          : "-"
 name                     : &name "Mr. Enguang Fan"
-description              : &description "Enguang Fan — PhD student in Computer Science at UIUC. Research in mobile computing, indoor localization, and wireless sensing systems. Ex-Google Android Location Team."
+description              : &description "Enguang Fan — PhD candidate in Computer Science at UIUC. Research in mobile computing, indoor localization, and wireless sensing systems. Ex-Google Android Location Team."
 url                      : https://enguang2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "enguang2.github.io"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Enguang Fan"
   avatar           : "selfie_v2.png"
-  bio              : "PhD student at UIUC CS. Mobile computing, indoor localization, wireless systems. Ex-Google (Android Location Team)."
+  bio              : "PhD candidate at UIUC CS. Mobile computing, indoor localization, wireless systems. Ex-Google (Android Location Team)."
   location         : "Siebel Center, UIUC"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
