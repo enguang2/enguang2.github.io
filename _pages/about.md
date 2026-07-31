@@ -77,6 +77,7 @@ Prior to my PhD, I interned on the **Google Android Indoor Localization Team** (
 
 <div class="section-title">News</div>
 
+<div class="news-item"><span class="news-date">Jul 2026</span><span>Our paper <a href="https://arxiv.org/abs/2603.16141"><em>Communication-Aware Multi-Agent Reinforcement Learning for Decentralized Cooperative UAV Deployment</em></a> has been accepted to <strong>IEEE GLOBECOM 2026</strong>! See you in Macau!</span></div>
 <div class="news-item"><span class="news-date">May 2026</span><span>Returned to <strong>Google</strong> as a Student Researcher, continuing work on indoor localization with the Android Context team.</span></div>
 <div class="news-item"><span class="news-date">Apr 2026</span><span>Passed the qualifying exam and became a <strong>PhD candidate</strong>!</span></div>
 <div class="news-item"><span class="news-date">Apr 2026</span><span>New preprints on arXiv: <em>Communication-Aware Multi-Agent RL for Decentralized UAV Deployment</em> and <em>Real-Time Loop Closure Detection in Visual SLAM via NetVLAD and Faiss</em>.</span></div>
