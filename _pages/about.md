@@ -9,6 +9,126 @@ redirect_from:
 ---
 
 <style>
+.acceptance-banner {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  margin: 0.4em 0 1.8em;
+  padding: 1.35em 1.5em 1.2em;
+  border: 1px solid #1d4c66;
+  border-left: 5px solid #f3b33d;
+  border-radius: 10px;
+  background:
+    radial-gradient(circle at 92% 12%, rgba(82, 173, 200, 0.28), transparent 34%),
+    linear-gradient(135deg, #102c46 0%, #0b1f33 72%);
+  box-shadow: 0 10px 26px rgba(11, 31, 51, 0.18);
+  color: #fff !important;
+  text-decoration: none !important;
+  transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+}
+.acceptance-banner:hover,
+.acceptance-banner:focus {
+  border-color: #52adc8;
+  box-shadow: 0 14px 32px rgba(11, 31, 51, 0.26);
+  color: #fff !important;
+  transform: translateY(-2px);
+}
+.acceptance-banner:focus-visible {
+  outline: 3px solid rgba(82, 173, 200, 0.45);
+  outline-offset: 3px;
+}
+.announcement-kicker {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  margin-bottom: 0.45em;
+  color: #fff;
+  font-size: clamp(1.35em, 3.6vw, 1.9em);
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.announcement-kicker::before {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #f3b33d;
+  box-shadow: 0 0 0 4px rgba(243, 179, 61, 0.16);
+  content: "";
+}
+.announcement-main {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 1.4em;
+}
+.announcement-main > span:first-child {
+  display: block;
+  flex: 1 1 auto;
+  min-width: 0;
+}
+.announcement-venue {
+  display: block;
+  margin-bottom: 0.55em;
+  color: #ffd987;
+  font-size: 1.02em;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 1.35;
+}
+.announcement-title {
+  display: block;
+  max-width: 570px;
+  color: #dcebf2;
+  font-size: 0.91em;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}
+.announcement-cta {
+  flex: 0 0 auto;
+  padding: 0.58em 0.85em;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.08);
+  color: #fff;
+  font-size: 0.78em;
+  font-weight: 700;
+  white-space: nowrap;
+}
+.announcement-footer {
+  display: flex;
+  align-items: center;
+  gap: 0.55em;
+  margin-top: 1em;
+  padding-top: 0.85em;
+  border-top: 1px solid rgba(255, 255, 255, 0.14);
+  color: #a9cad7;
+  font-size: 0.77em;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
+.announcement-footer::before {
+  content: "MACAU";
+  padding: 0.18em 0.48em;
+  border-radius: 3px;
+  background: #f3b33d;
+  color: #142b3c;
+  font-size: 0.82em;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+}
+@media (max-width: 600px) {
+  .acceptance-banner {
+    padding: 1.15em 1.15em 1em;
+  }
+  .announcement-main {
+    display: block;
+  }
+  .announcement-cta {
+    display: inline-block;
+    margin-top: 1em;
+  }
+}
 .news-item {
   display: flex;
   gap: 1em;
@@ -71,13 +191,24 @@ redirect_from:
 }
 </style>
 
+<a class="acceptance-banner" href="https://arxiv.org/abs/2603.16141" aria-label="Read Communication-Aware Multi-Agent Reinforcement Learning for Decentralized Cooperative UAV Deployment on arXiv">
+  <span class="announcement-kicker">Announcement</span>
+  <span class="announcement-main">
+    <span>
+      <span class="announcement-venue">Paper accepted at IEEE GLOBECOM 2026</span>
+      <span class="announcement-title">Communication-Aware Multi-Agent Reinforcement Learning for Decentralized Cooperative UAV Deployment</span>
+    </span>
+    <span class="announcement-cta">View on arXiv&nbsp; →</span>
+  </span>
+  <span class="announcement-footer">See you there in 2026</span>
+</a>
+
 I am a PhD candidate in the [Department of Computer Science](https://cs.illinois.edu/) at the **University of Illinois Urbana-Champaign** (UIUC), advised by [Prof. Klara Nahrstedt](https://cs.illinois.edu/about/people/faculty/klara). My research centers on **mobile computing**, **indoor localization**, and **wireless sensing systems**. I build systems that enable accurate, infrastructure-free positioning for everyday devices. I have also worked with [Prof. Deepak Vasisht](https://deepakv.web.illinois.edu/) and [Prof. Matthew Caesar](https://caesar.web.engr.illinois.edu/).
 
 Prior to my PhD, I interned on the **Google Android Indoor Localization Team** (2025), where I worked on next-generation indoor localization for Google Maps with [Dr. Roy Want](https://en.wikipedia.org/wiki/Roy_Want). I hold an M.S. and B.S. (Highest Distinction) in CS/Statistics from UIUC.
 
 <div class="section-title">News</div>
 
-<div class="news-item"><span class="news-date">Jul 2026</span><span>Our paper <a href="https://arxiv.org/abs/2603.16141"><em>Communication-Aware Multi-Agent Reinforcement Learning for Decentralized Cooperative UAV Deployment</em></a> has been accepted to <strong>IEEE GLOBECOM 2026</strong>! See you in Macau!</span></div>
 <div class="news-item"><span class="news-date">May 2026</span><span>Returned to <strong>Google</strong> as a Student Researcher, continuing work on indoor localization with the Android Context team.</span></div>
 <div class="news-item"><span class="news-date">Apr 2026</span><span>Passed the qualifying exam and became a <strong>PhD candidate</strong>!</span></div>
 <div class="news-item"><span class="news-date">Apr 2026</span><span>New preprints on arXiv: <em>Communication-Aware Multi-Agent RL for Decentralized UAV Deployment</em> and <em>Real-Time Loop Closure Detection in Visual SLAM via NetVLAD and Faiss</em>.</span></div>
