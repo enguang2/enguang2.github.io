@@ -67,7 +67,7 @@ redirect_from:
 }
 </style>
 
-**[Download PDF Resume](/files/Enguang_resume_04052026.pdf)**
+**[Download PDF Resume](/files/Enguang_resume_08032026.pdf)**
 
 <div class="cv-section">
 <div class="cv-section-title">Education</div>
