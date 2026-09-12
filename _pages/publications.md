@@ -53,6 +53,9 @@ description: "Publications by Enguang Fan: indoor localization, mobile computing
   margin-left: 8px;
   vertical-align: middle;
 }
+.pub-badge.blue {
+  background: #52adc8;
+}
 .pub-year-header {
   font-size: 1.1em;
   font-weight: 700;
@@ -87,10 +90,16 @@ description: "Publications by Enguang Fan: indoor localization, mobile computing
 
 <div class="pub-year-header">2026</div>
 
+<div class="pub-entry" id="mobicom-2026">
+  <div class="pub-title">Meter-Level Wi-Fi RTT Localization on a Production Enterprise WLAN <span class="pub-badge blue">Short Paper</span></div>
+  <div class="pub-authors"><strong>Enguang Fan*</strong>, Binh Minh Tran*, Klara Nahrstedt</div>
+  <div class="pub-venue">Proceedings of the 32nd Annual International Conference on Mobile Computing and Networking (MobiCom '26), 2026</div>
+</div>
+
 <div class="pub-entry">
   <div class="pub-title">Communication-Aware Multi-Agent Reinforcement Learning for Decentralized Cooperative UAV Deployment</div>
   <div class="pub-authors"><strong>Enguang Fan</strong>, Y. Chen, Z. Shan, Matthew Caesar, Jae H. Kim</div>
-  <div class="pub-venue">arXiv preprint arXiv:2603.16141</div>
+  <div class="pub-venue">Accepted to the 2026 IEEE Global Communications Conference (GLOBECOM)</div>
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2603.16141">[arXiv]</a>
   </div>

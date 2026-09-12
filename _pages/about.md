@@ -108,7 +108,7 @@ redirect_from:
   letter-spacing: 0.03em;
 }
 .announcement-footer::before {
-  content: "MACAU";
+  content: "SHORT PAPER";
   padding: 0.18em 0.48em;
   border-radius: 3px;
   background: #f3b33d;
@@ -191,21 +191,21 @@ redirect_from:
 }
 </style>
 
-<a class="acceptance-banner" href="https://arxiv.org/abs/2603.16141" aria-label="Read Communication-Aware Multi-Agent Reinforcement Learning for Decentralized Cooperative UAV Deployment on arXiv">
+<a class="acceptance-banner" href="/publications/#mobicom-2026" aria-label="View publication details for Meter-Level Wi-Fi RTT Localization on a Production Enterprise WLAN">
   <span class="announcement-kicker">Announcement</span>
   <span class="announcement-main">
     <span>
-      <span class="announcement-venue">Paper accepted at IEEE GLOBECOM 2026</span>
-      <span class="announcement-title">Communication-Aware Multi-Agent Reinforcement Learning for Decentralized Cooperative UAV Deployment</span>
+      <span class="announcement-venue">Short paper accepted at ACM MobiCom 2026</span>
+      <span class="announcement-title">Meter-Level Wi-Fi RTT Localization on a Production Enterprise WLAN</span>
     </span>
-    <span class="announcement-cta">View on arXiv&nbsp; →</span>
+    <span class="announcement-cta">View publication&nbsp; →</span>
   </span>
-  <span class="announcement-footer">See you there in 2026</span>
+  <span class="announcement-footer">32nd ACM MobiCom · 2026</span>
 </a>
 
 I am a PhD candidate in the [Department of Computer Science](https://cs.illinois.edu/) at the **University of Illinois Urbana-Champaign** (UIUC), advised by [Prof. Klara Nahrstedt](https://cs.illinois.edu/about/people/faculty/klara). My research centers on **mobile computing**, **indoor localization**, and **wireless sensing systems**. I build systems that enable accurate, infrastructure-free positioning for everyday devices. I have also worked with [Prof. Deepak Vasisht](https://deepakv.web.illinois.edu/) and [Prof. Matthew Caesar](https://caesar.web.engr.illinois.edu/).
 
-Prior to my PhD, I interned on the **Google Android Indoor Localization Team** (2025), where I worked on next-generation indoor localization for Google Maps with [Dr. Roy Want](https://en.wikipedia.org/wiki/Roy_Want). I hold an M.S. and B.S. (Highest Distinction) in CS/Statistics from UIUC.
+I was a **Google Student Researcher** on the Android Location Team in 2025 and 2026, where I worked on next-generation indoor localization for Google Maps with [Dr. Roy Want](https://en.wikipedia.org/wiki/Roy_Want). I hold an M.S. and B.S. (Highest Distinction) in CS/Statistics from UIUC.
 
 <div class="section-title">News</div>
 
@@ -229,6 +229,12 @@ My work focuses on making accurate localization available everywhere — even in
 <div class="section-title">Selected Publications</div>
 
 <div class="pub-entry">
+<div class="pub-title">Meter-Level Wi-Fi RTT Localization on a Production Enterprise WLAN <span class="pub-badge blue">Short Paper</span></div>
+<div class="pub-authors"><strong>Enguang Fan*</strong>, Binh Minh Tran*, Klara Nahrstedt</div>
+<div class="pub-venue">ACM MobiCom 2026 — 32nd Annual International Conference on Mobile Computing and Networking</div>
+</div>
+
+<div class="pub-entry">
 <div class="pub-title">Scalable Indoor Localization with Non-Cooperative Wi-Fi Ranging <span class="pub-badge">Best Poster Runner-Up</span></div>
 <div class="pub-authors"><strong>Enguang Fan*</strong>, Emerson Sie*, Federico Cifuentes-Urtubey, Deepak Vasisht</div>
 <div class="pub-venue">MobiCom 2025 — 31st ACM Int'l Conference on Mobile Computing and Networking, Hong Kong, Nov 2025 &nbsp;·&nbsp; <a href="https://dl.acm.org/doi/pdf/10.1145/3680207.3765680">PDF</a></div>
@@ -243,7 +249,7 @@ My work focuses on making accurate localization available everywhere — even in
 <div class="pub-entry">
 <div class="pub-title">Communication-Aware Multi-Agent Reinforcement Learning for Decentralized Cooperative UAV Deployment</div>
 <div class="pub-authors"><strong>Enguang Fan</strong>, Y. Chen, Z. Shan, Matthew Caesar, Jae H. Kim</div>
-<div class="pub-venue">arXiv preprint, 2026 &nbsp;·&nbsp; <a href="https://arxiv.org/abs/2603.16141">arXiv:2603.16141</a></div>
+<div class="pub-venue">IEEE GLOBECOM 2026 &nbsp;·&nbsp; <a href="https://arxiv.org/abs/2603.16141">arXiv:2603.16141</a></div>
 </div>
 
 <div class="pub-entry">

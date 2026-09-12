@@ -67,7 +67,7 @@ redirect_from:
 }
 </style>
 
-**[Download PDF Resume](/files/Enguang_resume_08032026.pdf)**
+**[Download PDF Resume](/files/Enguang_resume_20260912.pdf)**
 
 <div class="cv-section">
 <div class="cv-section-title">Education</div>
@@ -100,6 +100,15 @@ redirect_from:
 
 <div class="cv-section">
 <div class="cv-section-title">Publications</div>
+
+<div class="cv-entry">
+  <div class="cv-entry-body">
+    <div class="cv-org">Meter-Level Wi-Fi RTT Localization on a Production Enterprise WLAN</div>
+    <div class="cv-role"><strong>Enguang Fan*</strong>, Binh Minh Tran*, Klara Nahrstedt</div>
+    <div class="cv-detail">32nd ACM Annual International Conference on Mobile Computing and Networking (MobiCom '26), short paper. * Equal contribution.</div>
+  </div>
+  <div class="cv-entry-date">2026</div>
+</div>
 
 <div class="cv-entry">
   <div class="cv-entry-body">
