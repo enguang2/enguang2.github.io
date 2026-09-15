@@ -103,7 +103,7 @@ redirect_from:
 
 <div class="cv-entry">
   <div class="cv-entry-body">
-    <div class="cv-org">Meter-Level Wi-Fi RTT Localization on a Production Enterprise WLAN</div>
+    <div class="cv-org"><a href="https://arxiv.org/abs/2609.13795">Meter-Level Wi-Fi RTT Localization on a Production Enterprise WLAN</a></div>
     <div class="cv-role"><strong>Enguang Fan*</strong>, Binh Minh Tran*, Klara Nahrstedt</div>
     <div class="cv-detail">32nd ACM Annual International Conference on Mobile Computing and Networking (MobiCom '26), short paper. * Equal contribution.</div>
   </div>

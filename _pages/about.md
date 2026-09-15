@@ -191,7 +191,7 @@ redirect_from:
 }
 </style>
 
-<a class="acceptance-banner" href="/publications/#mobicom-2026" aria-label="View publication details for Meter-Level Wi-Fi RTT Localization on a Production Enterprise WLAN">
+<a class="acceptance-banner" href="https://arxiv.org/abs/2609.13795" aria-label="Read Meter-Level Wi-Fi RTT Localization on a Production Enterprise WLAN on arXiv">
   <span class="announcement-kicker">Announcement</span>
   <span class="announcement-main">
     <span>
@@ -229,9 +229,9 @@ My work focuses on making accurate localization available everywhere — even in
 <div class="section-title">Selected Publications</div>
 
 <div class="pub-entry">
-<div class="pub-title">Meter-Level Wi-Fi RTT Localization on a Production Enterprise WLAN <span class="pub-badge blue">Short Paper</span></div>
+<div class="pub-title"><a href="https://arxiv.org/abs/2609.13795">Meter-Level Wi-Fi RTT Localization on a Production Enterprise WLAN</a> <span class="pub-badge blue">Short Paper</span></div>
 <div class="pub-authors"><strong>Enguang Fan*</strong>, Binh Minh Tran*, Klara Nahrstedt</div>
-<div class="pub-venue">ACM MobiCom 2026 — 32nd Annual International Conference on Mobile Computing and Networking</div>
+<div class="pub-venue">ACM MobiCom 2026 — 32nd Annual International Conference on Mobile Computing and Networking &nbsp;·&nbsp; <a href="https://arxiv.org/abs/2609.13795">arXiv:2609.13795</a></div>
 </div>
 
 <div class="pub-entry">

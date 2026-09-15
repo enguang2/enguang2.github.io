@@ -91,9 +91,12 @@ description: "Publications by Enguang Fan: indoor localization, mobile computing
 <div class="pub-year-header">2026</div>
 
 <div class="pub-entry" id="mobicom-2026">
-  <div class="pub-title">Meter-Level Wi-Fi RTT Localization on a Production Enterprise WLAN <span class="pub-badge blue">Short Paper</span></div>
+  <div class="pub-title"><a href="https://arxiv.org/abs/2609.13795">Meter-Level Wi-Fi RTT Localization on a Production Enterprise WLAN</a> <span class="pub-badge blue">Short Paper</span></div>
   <div class="pub-authors"><strong>Enguang Fan*</strong>, Binh Minh Tran*, Klara Nahrstedt</div>
   <div class="pub-venue">Proceedings of the 32nd Annual International Conference on Mobile Computing and Networking (MobiCom '26), 2026</div>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2609.13795">[arXiv]</a>
+  </div>
 </div>
 
 <div class="pub-entry">
