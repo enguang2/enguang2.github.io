@@ -77,7 +77,7 @@ redirect_from:
     <div class="cv-org">University of Illinois Urbana-Champaign</div>
     <div class="cv-role">PhD Candidate in Computer Science</div>
     <div class="cv-detail">Advised by Prof. Klara Nahrstedt. Previously worked with Prof. Deepak Vasisht and Prof. Matthew Caesar.</div>
-    <div class="cv-detail">Research: Spatial Intelligence, Wireless and Mobile Systems, Machine Learning, and Localization.</div>
+    <div class="cv-detail">Research: Spatial Intelligence, On-Device ML, Wireless and Mobile Systems.</div>
   </div>
   <div class="cv-entry-date">Aug 2024 – May 2028 (expected)</div>
 </div>
@@ -139,18 +139,18 @@ redirect_from:
 
 <div class="cv-entry">
   <div class="cv-entry-body">
-    <div class="cv-org">RTT-MOTION: Scan-Aware Real-Time Indoor Localization with Commodity Wi-Fi RTT</div>
+    <div class="cv-org">Walks2Maps: Learning Indoor Geometry from Crowdsourced Wi-Fi RTT and Motion Trajectories</div>
     <div class="cv-role"><strong>Enguang Fan</strong> et al.</div>
-    <div class="cv-detail">Under submission to ACM MobiCom 2027.</div>
+    <div class="cv-detail">Accepted to the NeurIPS 2026 PhysWorldAI Workshop.</div>
   </div>
   <div class="cv-entry-date">2026</div>
 </div>
 
 <div class="cv-entry">
   <div class="cv-entry-body">
-    <div class="cv-org">Learning Latent RF Landmarks from Unlabeled Mobile Trajectories</div>
+    <div class="cv-org">RTT-MOTION: Scan-Aware Real-Time Indoor Localization with Commodity Wi-Fi RTT</div>
     <div class="cv-role"><strong>Enguang Fan</strong> et al.</div>
-    <div class="cv-detail">Under submission to NeurIPS 2026.</div>
+    <div class="cv-detail">Under submission to ACM MobiCom 2027.</div>
   </div>
   <div class="cv-entry-date">2026</div>
 </div>
@@ -215,6 +215,18 @@ redirect_from:
 
 <div class="cv-entry">
   <div class="cv-entry-body">
+    <div class="cv-org">On-Device Multimodal GUI Agent for Android</div>
+    <ul class="cv-bullets">
+      <li>Built a multimodal Android GUI agent that executes natural-language, cross-app tasks with a vision-language model (VLM) run fully on-device (Qwen2.5-VL-3B-Instruct, W4A8, on a Snapdragon 8 Gen 3 phone) or in the cloud (Gemini Flash), behind one shared agent, tool, and recovery interface.</li>
+      <li>Designed an observe-reason-act loop on Android AccessibilityService that turns the UI tree into indexed observations, grounds JSON-schema-constrained actions (tap, swipe, type, launch, navigate), falls back to screenshot perception for inaccessible UI, and re-validates actions against the live UI to recover from stale targets.</li>
+      <li>Benchmarked on-device execution on real cross-app workflows, measuring median <strong>12.1 tokens/s decode</strong>, 2.9 s vision encoding, and <strong>10.8 s end-to-end action latency</strong> (vs. 4.1 s in the cloud) at 3.6 GB peak memory; evaluated Hexagon NPU offload via Qualcomm QAIRT/QNN and kept the ARM CPU as the stable full-model path.</li>
+    </ul>
+  </div>
+  <div class="cv-entry-date">Sep 2026 – Present</div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-entry-body">
     <div class="cv-org">Learning Latent RF Landmarks from Unlabeled Mobile Trajectories</div>
     <ul class="cv-bullets">
       <li>Developed a self-supervised Radio Frequency (RF) place-recognition framework that learns discriminative spatial embeddings from sparse Wi-Fi RTT/RSS trajectory segments, enabling mobile devices to discover repeatable latent landmarks without labeled locations or known access-point coordinates.</li>
@@ -251,7 +263,7 @@ redirect_from:
 <div class="cv-section-title">Skills</div>
 
 * **Languages**: Python, C, C++, Java, MATLAB
-* **Machine Learning, Deep Learning &amp; Computer Vision**: PyTorch, TensorFlow, Transformers, LSTMs, Reinforcement Learning, OpenCV
+* **Machine Learning, Deep Learning &amp; Computer Vision**: PyTorch, TensorFlow, Transformers, LLMs/VLMs, on-device inference, quantization, LSTMs, Reinforcement Learning, OpenCV
 * **Robotics &amp; State Estimation**: SLAM, visual-inertial odometry, factor graphs, Kalman/particle filters, sensor fusion, PDR, ROS/ROS2
 * **Wireless &amp; Mobile Systems**: Wi-Fi RTT, Android, Linux, CMake
 </div>

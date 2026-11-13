@@ -108,7 +108,7 @@ redirect_from:
   letter-spacing: 0.03em;
 }
 .announcement-footer::before {
-  content: "SHORT PAPER";
+  content: "WORKSHOP";
   padding: 0.18em 0.48em;
   border-radius: 3px;
   background: #f3b33d;
@@ -191,16 +191,16 @@ redirect_from:
 }
 </style>
 
-<a class="acceptance-banner" href="https://arxiv.org/abs/2609.13795" aria-label="Read Meter-Level Wi-Fi RTT Localization on a Production Enterprise WLAN on arXiv">
+<a class="acceptance-banner" href="/publications/#neurips-2026-physworldai" aria-label="View publication details for Walks2Maps: Learning Indoor Geometry from Crowdsourced Wi-Fi RTT and Motion Trajectories">
   <span class="announcement-kicker">Announcement</span>
   <span class="announcement-main">
     <span>
-      <span class="announcement-venue">Short paper accepted at ACM MobiCom 2026</span>
-      <span class="announcement-title">Meter-Level Wi-Fi RTT Localization on a Production Enterprise WLAN</span>
+      <span class="announcement-venue">Paper accepted at the NeurIPS 2026 PhysWorldAI Workshop</span>
+      <span class="announcement-title">Walks2Maps: Learning Indoor Geometry from Crowdsourced Wi-Fi RTT and Motion Trajectories</span>
     </span>
     <span class="announcement-cta">View publication&nbsp; →</span>
   </span>
-  <span class="announcement-footer">32nd ACM MobiCom · 2026</span>
+  <span class="announcement-footer">NeurIPS 2026 · PhysWorldAI Workshop</span>
 </a>
 
 I am a PhD candidate in the [Department of Computer Science](https://cs.illinois.edu/) at the **University of Illinois Urbana-Champaign** (UIUC), advised by [Prof. Klara Nahrstedt](https://cs.illinois.edu/about/people/faculty/klara). My research centers on **mobile computing**, **indoor localization**, and **wireless sensing systems**. I build systems that enable accurate, infrastructure-free positioning for everyday devices. I have also worked with [Prof. Deepak Vasisht](https://deepakv.web.illinois.edu/) and [Prof. Matthew Caesar](https://caesar.web.engr.illinois.edu/).
@@ -209,6 +209,8 @@ I was a **Google Student Researcher** on the Android Location Team in 2025 and 2
 
 <div class="section-title">News</div>
 
+<div class="news-item"><span class="news-date">Nov 2026</span><span>Our paper <em>Walks2Maps: Learning Indoor Geometry from Crowdsourced Wi-Fi RTT and Motion Trajectories</em> was accepted to the <strong>NeurIPS 2026 PhysWorldAI Workshop</strong>!</span></div>
+<div class="news-item"><span class="news-date">Sep 2026</span><span>Our short paper <em>Meter-Level Wi-Fi RTT Localization on a Production Enterprise WLAN</em> was accepted to <strong>ACM MobiCom 2026</strong>.</span></div>
 <div class="news-item"><span class="news-date">May 2026</span><span>Returned to <strong>Google</strong> as a Student Researcher, continuing work on indoor localization with the Android Context team.</span></div>
 <div class="news-item"><span class="news-date">Apr 2026</span><span>Passed the qualifying exam and became a <strong>PhD candidate</strong>!</span></div>
 <div class="news-item"><span class="news-date">Apr 2026</span><span>New preprints on arXiv: <em>Communication-Aware Multi-Agent RL for Decentralized UAV Deployment</em> and <em>Real-Time Loop Closure Detection in Visual SLAM via NetVLAD and Faiss</em>.</span></div>
@@ -227,6 +229,12 @@ My work focuses on making accurate localization available everywhere — even in
 - **Robotics & Security**: UAV swarm coordination, GPS spoofing detection, and SLAM.
 
 <div class="section-title">Selected Publications</div>
+
+<div class="pub-entry">
+<div class="pub-title">Walks2Maps: Learning Indoor Geometry from Crowdsourced Wi-Fi RTT and Motion Trajectories <span class="pub-badge blue">Workshop</span></div>
+<div class="pub-authors"><strong>Enguang Fan</strong> et al.</div>
+<div class="pub-venue">NeurIPS 2026 PhysWorldAI Workshop</div>
+</div>
 
 <div class="pub-entry">
 <div class="pub-title"><a href="https://arxiv.org/abs/2609.13795">Meter-Level Wi-Fi RTT Localization on a Production Enterprise WLAN</a> <span class="pub-badge blue">Short Paper</span></div>
