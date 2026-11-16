@@ -91,9 +91,12 @@ description: "Publications by Enguang Fan: indoor localization, mobile computing
 <div class="pub-year-header">2026</div>
 
 <div class="pub-entry" id="neurips-2026-physworldai">
-  <div class="pub-title">Walks2Maps: Learning Indoor Geometry from Crowdsourced Wi-Fi RTT and Motion Trajectories <span class="pub-badge blue">Workshop</span></div>
-  <div class="pub-authors"><strong>Enguang Fan</strong> et al.</div>
+  <div class="pub-title"><a href="/files/walks2maps_neurips2026_physworldai.pdf">Walks2Maps: Learning Indoor Geometry from Crowdsourced Wi-Fi RTT and Motion Trajectories</a> <span class="pub-badge blue">Workshop</span></div>
+  <div class="pub-authors"><strong>Enguang Fan</strong>, Binh Minh Tran, Fulin Wang, Jiaxi Li, Klara Nahrstedt</div>
   <div class="pub-venue">NeurIPS 2026 PhysWorldAI Workshop</div>
+  <div class="pub-links">
+    <a href="/files/walks2maps_neurips2026_physworldai.pdf">[PDF]</a>
+  </div>
 </div>
 
 <div class="pub-entry" id="mobicom-2026">

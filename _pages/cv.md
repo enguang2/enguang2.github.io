@@ -139,8 +139,8 @@ redirect_from:
 
 <div class="cv-entry">
   <div class="cv-entry-body">
-    <div class="cv-org">Walks2Maps: Learning Indoor Geometry from Crowdsourced Wi-Fi RTT and Motion Trajectories</div>
-    <div class="cv-role"><strong>Enguang Fan</strong> et al.</div>
+    <div class="cv-org"><a href="/files/walks2maps_neurips2026_physworldai.pdf">Walks2Maps: Learning Indoor Geometry from Crowdsourced Wi-Fi RTT and Motion Trajectories</a></div>
+    <div class="cv-role"><strong>Enguang Fan</strong>, Binh Minh Tran, Fulin Wang, Jiaxi Li, Klara Nahrstedt</div>
     <div class="cv-detail">Accepted to the NeurIPS 2026 PhysWorldAI Workshop.</div>
   </div>
   <div class="cv-entry-date">2026</div>
